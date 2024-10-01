@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5o+DCctIdso=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\USP\\USP\\USP.Worker\\USP.Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-rc.1.24431.7\\microsoft.extensions.configuration.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.configuration.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-rc.1.24431.7\\microsoft.extensions.primitives.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}
